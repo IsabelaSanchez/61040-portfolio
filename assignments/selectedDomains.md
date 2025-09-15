@@ -12,6 +12,12 @@ There are different variants of Quechua: In the east coast, you can find a lot o
 Mixing languages: Switching between Spanish, English and Quechua(plus any other language you are learning) can make it difficult to remember which words belong to which language, leading to confusion and frustration. 
 
 ### Stakeholders 
+**Learner**: Suffers from confusion and frustration when words get mixed.
+
+**Family/Community**: They may also feel pride or concern about how well the language is being passed on.
+
+**Language Mentor**: Needs to help the learner differentiate vocabulary and reinforce the use of additional languages only for specific, helpful cases.
+
 
 ### Feature
 
@@ -28,6 +34,12 @@ It is easy to compare yourself to others: While participating in inktober I real
 Creativity block: Some words of the challenge may be harder to interpret, and you might spend more time stressing about what to draw than actually drawing. This can take away from the joy of the challenge. **Non-Selected problem: There are a lot of resources for artist's blocks**
 
 ### Stakeholders 
+
+**Participant**: Feels discouraged and may abandon the challenge entirely after missing a day.
+
+**Community**: When participants quit early, it leads to fewer shared drawings, less feedback, and weaker group bonding.
+
+**Organizer/Platform**: Participation rates decline when users drop out.
 
 ### Feature
 
@@ -46,6 +58,13 @@ Songs lyrics are not the best example of real-life language: A lot of songs cont
 
 ### Stakeholders 
 
+**Language Learner**: Misses opportunities to internalize grammar rules, leading to limited ability to use the language in real-life settings.
+
+**Language Teacher**: Faces difficulty tracking the learner's progress in grammar comprehension if the learner prioritizes meaning over structure.
+
+**Song Author**: Their writing styles impact the language learner experience.
+
 ### Feature
+
 
 
