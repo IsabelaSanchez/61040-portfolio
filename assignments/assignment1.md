@@ -24,20 +24,21 @@ Good Sleep habits: I try to maintain good sleep habits because I know my brain a
 ### Domain 8
 Remembering words in Quechua: I grew up speaking Quechua and Spanish, which in my country we call "Quechuañol". I enjoy re-learning and remembering words in Quechua because it helps me remember my family. Since I came to the US, I have found very little time and space to practice my Quechua. When I called back my mom and aunties, I could review some words, but usually our calls are not to practice Quechua but to update each other on how the family is going. Sometimes when I take notes in class, I find myself writing in Quechua and Spanish. I feel proud when I remember a new word and try to use it a lot during the week. I’d like to create something to include Quechua in my daily life.
 
-** Problem: ** Finding spaces to practice Quechua while being far away from the community: As previously stated, the safe place for me to speak and practice Quechua has always been my home. In Boston, I found a good community at Harvard University during my first year, but after the only Quechua professor left the school, the community became inactive. Due to the lack of time and physical spaces(before we used to use Harvard buildings), we stopped practicing and meeting.
+**Problem:** Finding spaces to practice Quechua while being far away from the community: As previously stated, the safe place for me to speak and practice Quechua has always been my home. In Boston, I found a good community at Harvard University during my first year, but after the only Quechua professor left the school, the community became inactive. Due to the lack of time and physical spaces(before we used to use Harvard buildings), we stopped practicing and meeting.
 
 stakeholder 
 feature
 ### Domain 9
 Finding time to speak with family weekly: One of the most challenging things for me to plan is weekly calls with my family. I know it is part of my well-being, but it is a lot of time. Every time I call my family, it is never less than a 2-hour call. Usually, we talk over video calls or send voice notes when schedules don’t line up. I often feel guilty if a week goes by without talking to them, even though I know I am the one who is always busy. I’d like to find a way to make this a weekly habit that can fit all the areas of my life.
 
-** Problem: **
+**Problem:**
 
 stakeholder 
 feature
 ### Domain 10
-Using music to learn a new language: As a melomaniac and aspiring musician, I really enjoy using music to learn a new language because it makes the process more personal and memorable. When I start learning a new language, the first thing I do is explore their popular music. I often look for memes that I didn't know were in that language or songs from series and movie soundtracks. I started learning English when I was 16 years old, and I remember having a notebook with lyrics of my favorite English-speaking artist. In that time, I didn't know about the existence of Spotify, so I would listen to radio stations that included music in English. Sometimes I repeat lines out loud to practice pronunciation, or even sing along to memorize the song. 
-** Problem: **
+Using music to learn a new language: As a melomaniac and aspiring musician, I really enjoy using music to learn a new language because it makes the process more personal and memorable. When I start learning a new language, the first thing I do is explore their popular music. I often look for memes that I didn't know were in that language or songs from series and movie soundtracks. I started learning English when I was 16 years old, and I remember having a notebook with lyrics of my favorite English-speaking artist. In that time, I didn't know about the existence of Spotify, so I would listen to radio stations that included music in English. Sometimes I repeat lines out loud to practice pronunciation, or even sing along to memorize the song.
+
+**Problem:**
 stakeholder 
 feature
 
