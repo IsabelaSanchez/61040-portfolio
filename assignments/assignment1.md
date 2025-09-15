@@ -1,6 +1,6 @@
 # Assignment 1: Problem Framing
 ### Domain 1
-Watching short videos: I enjoyed watching reels on instagram, youtube shorts, and tiktoks during the break times in the academic year. They give the dopamine dosage needed to laugh without compromising to watch a whole series or movie. I really enjoyed tiktoks of people telling story times of situations I have been through. For example, I follow influencers who shared about their experiences of being first-generation low-income international students in the US and Asia. Also, I liked videos of study tips, coding hacks, and design/drawing quick tutorials.
+Watching short videos: I enjoyed watching reels on Instagram, YouTube Shorts, and TikTok during the break times in the academic year. They give the dopamine dosage needed to laugh without compromising to watch a whole series or movie. I really enjoyed TikToks of people telling story times of situations I have been through. For example, I follow influencers who shared about their experiences of being first-generation low-income international students in the US and Asia. Also, I liked videos of study tips, coding hacks, and design/drawing quick tutorials.
 
 ### Domain 2
 Drawing challenges: Last year, I participated in my first [Inktober](https://inktober.com/), and since then, I have gotten obsessed with online drawing challenges. Since I was little, I enjoyed drawing, but I never got the chance to take classes. I started to learn "officially" how to draw last fall, so Inktober was a cool opportunity for me to keep developing my own style with the new tools I was learning in my Studio Art class. In Wellesley, we had a public wall where anyone could add a sticky note with their daily drawing. It was so much fun to see the different interpretations of the daily Inktober words in my friends' art.
@@ -27,13 +27,13 @@ problem
 stakeholder 
 feature
 ### Domain 9
-Finding a time to speak with family weekly: One of the most difficult things to plan for me is weekly calls with my family. I know it is part of my wellbeing but it is a lot of time. Every time I call my family, it is never less than a 2-hour call. Usually, we talk over video calls or send voice notes when schedules don’t line up. I really enjoy hearing about their daily lives, but sometimes it’s hard to coordinate because of time zones and different routines. I often feel guilty if a week goes by without talking to them, even though I know everyone is busy. I’d like to make this habit more consistent by setting a fixed day or time, so it becomes part of my routine rather than something I squeeze in
+Finding a time to speak with family weekly: One of the most difficult things to plan for me is weekly calls with my family. I know it is part of my wellbeing, but it is a lot of time. Every time I call my family, it is never less than a 2-hour call. Usually, we talk over video calls or send voice notes when schedules don’t line up. I often feel guilty if a week goes by without talking to them, even though I know I am the one who is always busy. I’d like to find a way to make this a weekly habit that can fit all the areas of my life.
 
 problem
 stakeholder 
 feature
 ### Domain 10
-Using music to learn a new language: I enjoy using music to learn a new language because it makes the process more fun and memorable. I often listen to songs with lyrics in the target language and try to follow along, looking up words or phrases I don’t understand. Sometimes I repeat lines out loud to practice pronunciation, or even sing along to get the rhythm right. I like how music gives me cultural context too, but I sometimes get caught up in just enjoying the song and forget to focus on learning. I’d like to be more systematic by combining music with other study methods, so I can turn casual listening into real progress.
+Using music to learn a new language: I am a melomaniac and an aspiring musician, so I really enjoy using music to learn a new language because it makes the process more personal and memorable. When I start learning a new language, the first thing I do is explore their popular music. I often look for memes that I didn't know were in that language or songs from series and movie soundtracks. I started learning English when I was 16 years old, and I remember having a notebook with lyrics of my favorite English-speaking artist. In that time, I didn't know about the existence of Spotify, so I would listen to radio stations that included music in English. Sometimes I repeat lines out loud to practice pronunciation, or even sing along to memorize the song. 
 problem
 stakeholder 
 feature
