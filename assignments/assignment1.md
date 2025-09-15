@@ -27,7 +27,7 @@ Remembering words in Quechua: I grew up speaking Quechua and Spanish, which in m
 ### [Domain 9](assignments/selectedDomains.md)
 Drawing challenges: Last year, I participated in my first [Inktober](https://inktober.com/), and since then, I have gotten obsessed with online drawing challenges. Since I was little, I enjoyed drawing, but I never got the chance to take classes. I started to learn "officially" how to draw last fall, so Inktober was a cool opportunity for me to keep developing my own style with the new tools I was learning in my Studio Art class. In Wellesley, we had a public wall where anyone could add a sticky note with their daily drawing. It was so much fun to see the different interpretations of the daily Inktober words in my friends' art.
 
-### (Domain 10)(assignments/selectedDomains.md)
+### [Domain 10](assignments/selectedDomains.md)
 Using music to learn a new language: As a melomaniac and aspiring musician, I really enjoy using music to learn a new language because it makes the process more personal and memorable. When I start learning a new language, the first thing I do is explore their popular music. I often look for memes that I didn't know were in that language or songs from series and movie soundtracks. I started learning English when I was 16 years old, and I remember having a notebook with lyrics of my favorite English-speaking artist. In that time, I didn't know about the existence of Spotify, so I would listen to radio stations that included music in English. Sometimes I repeat lines out loud to practice pronunciation, or even sing along to memorize the song.
 
 
