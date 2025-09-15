@@ -35,7 +35,7 @@ Drawing challenges: Last year, I participated in my first [Inktober](https://ink
 It is easy to lose motivation after missing one day of the challenge: Just like people who lose their Duoling strike after more than 100 days, it is always demotivating to lose your own self-challenge. A lot of my friends drop after the first weekend of inktober.
 
 **Problem 2:**
-It is easy to compared yourself to others.
+It is easy to compare yourself to others: While participating in inktober I realized there is participants with different mindsets. Some of them feel inspired by their peers and others may feel intimidated to participate by the side of artists with years of experience.
 
 stakeholder 
 feature
