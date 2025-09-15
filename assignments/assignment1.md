@@ -20,14 +20,14 @@ Teaching public speaking: I enjoy teaching public speaking because it allows me 
 ### Domain 7
 Good Sleep habits: I try to maintain good sleep habits because I know my brain and body won't work well if I don't sleep well. Sometimes I stay up finishing homework and starting my weekly work tasks. Sometimes the night is the only time when I can call my family, so even though I try to finish my calls early, family calls can last around 2 hours. I wish I was more disciplined about going to sleep earlier. I am conscious about the importance of sleep, but I am still figuring out how to keep healthier habits consistently.
 
-## [Selected Domains](assignments/selectedDomains.md)
+## Selected Domains
 ### [Domain 8](assignments/selectedDomains.md)
 Remembering words in Quechua: I grew up speaking Quechua and Spanish, which in my country we call "Quechuañol". I enjoy re-learning and remembering words in Quechua because it helps me remember my family. Since I came to the US, I have found very little time and space to practice my Quechua. When I called back my mom and aunties, I could review some words, but usually our calls are not to practice Quechua but to update each other on how the family is going. Sometimes when I take notes in class, I find myself writing in Quechua and Spanish. I feel proud when I remember a new word and try to use it a lot during the week. I’d like to create something to include Quechua in my daily life.
 
-### Domain 9
+### [Domain 9](assignments/selectedDomains.md)
 Drawing challenges: Last year, I participated in my first [Inktober](https://inktober.com/), and since then, I have gotten obsessed with online drawing challenges. Since I was little, I enjoyed drawing, but I never got the chance to take classes. I started to learn "officially" how to draw last fall, so Inktober was a cool opportunity for me to keep developing my own style with the new tools I was learning in my Studio Art class. In Wellesley, we had a public wall where anyone could add a sticky note with their daily drawing. It was so much fun to see the different interpretations of the daily Inktober words in my friends' art.
 
-### Domain 10
+### (Domain 10)(assignments/selectedDomains.md)
 Using music to learn a new language: As a melomaniac and aspiring musician, I really enjoy using music to learn a new language because it makes the process more personal and memorable. When I start learning a new language, the first thing I do is explore their popular music. I often look for memes that I didn't know were in that language or songs from series and movie soundtracks. I started learning English when I was 16 years old, and I remember having a notebook with lyrics of my favorite English-speaking artist. In that time, I didn't know about the existence of Spotify, so I would listen to radio stations that included music in English. Sometimes I repeat lines out loud to practice pronunciation, or even sing along to memorize the song.
 
 
