@@ -21,7 +21,7 @@ Teaching public speaking: I enjoy teaching public speaking because it allows me 
 Good Sleep habits: I try to maintain good sleep habits because I know my brain and body won't work well if I don't sleep well. Sometimes I stay up finishing homework and starting my weekly work tasks. Sometimes the night is the only time when I can call my family, so even though I try to finish my calls early, family calls can last around 2 hours. I wish I was more disciplined about going to sleep earlier. I am conscious about the importance of sleep, but I am still figuring out how to keep healthier habits consistently.
 
 ## Selected Domains
-### [Domain 8](assignments/selectedDomains.md)
+### [Domain 8](selectedDomains.md)
 Remembering words in Quechua: I grew up speaking Quechua and Spanish, which in my country we call "Quechuañol". I enjoy re-learning and remembering words in Quechua because it helps me remember my family. Since I came to the US, I have found very little time and space to practice my Quechua. When I called back my mom and aunties, I could review some words, but usually our calls are not to practice Quechua but to update each other on how the family is going. Sometimes when I take notes in class, I find myself writing in Quechua and Spanish. I feel proud when I remember a new word and try to use it a lot during the week. I’d like to create something to include Quechua in my daily life.
 
 ### [Domain 9](assignments/selectedDomains.md)
